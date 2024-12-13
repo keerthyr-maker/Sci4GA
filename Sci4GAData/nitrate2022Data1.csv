@@ -1,0 +1,247 @@
+EventDate,GroupName,SiteName,SiteID,site_latitude,site_longitude,site_altitude,do_saturation,NitrateN
+2022-01-09 09:15:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,87.01,1.4
+2022-01-09 10:00:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,87.02,1.2
+2022-01-14 12:08:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,75.95,0.0
+2022-01-14 15:45:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,89.36,0.03
+2022-01-23 08:15:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,89.22,0.5
+2022-01-27 13:48:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,69.38,0.13
+2022-01-27 01:55:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,78.1,0.0
+2022-01-27 13:00:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,78.0,0.25
+2022-01-27 11:05:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,63.46,0.25
+2022-01-27 12:32:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,76.92,0.25
+2022-01-28 14:00:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,79.26,0.0
+2022-01-21 17:09:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,94.56,0.03
+2022-01-24 14:00:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,112.18,0.03
+2022-01-26 17:16:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,99.24,0.05
+2022-01-27 13:00:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,114.36,0.06
+2022-01-29 14:30:00,Whitefield Academy 1,Nickajack Creek,6819,33.8263,-84.5114,238.21,91.42,0.46
+2022-01-31 08:30:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,90.6,1.81
+2022-01-30 14:30:00,Chattahoochee Stream Stewards,Coyote Creek (Hewlett Creek),5402,33.9865,-84.3234,263.39,81.59,0.0
+2022-01-31 17:30:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,94.15,0.0
+2022-01-31 15:20:00,Upper Etowah Alliance AAS,Canton Creek,1235,34.2298,-84.4918,262.24,95.76,0.5
+2022-02-01 11:30:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,100.02,0.79
+2022-02-02 14:15:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,104.07,0.5
+2022-02-09 11:00:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,84.08,0.95
+2022-02-12 11:28:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,78.18,0.0
+2022-02-11 13:30:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,60.1,0.3
+2022-02-13 15:50:00,Whitefield Academy 1,Nickajack Creek,6819,33.8263,-84.5114,238.21,90.1,3.46
+2022-02-13 07:10:00,kecb,Broad River at Anthony Shoals,5157,33.9921,-82.6548,112.99,84.48,0.0
+2022-02-13 10:15:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,85.38,2.0
+2022-02-13 10:09:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,87.0,1.0
+2022-02-16 13:00:00,Whitefield Academy 1,Lake Whitefield,7242,33.824,-84.5103,241.11,97.84,1.15
+2022-02-19 13:12:00,Chattahoochee Stream Stewards,Haw Creek,5391,34.158,-84.081,280.76,89.14,2.0
+2022-02-20 07:15:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,85.98,0.5
+2022-02-26 15:20:00,Whitefield Academy 1,Nickajack Creek,6819,33.8263,-84.5114,238.21,99.8,3.57
+2022-02-25 13:15:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,75.01,0.0
+2022-03-06 10:54:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,85.91,1.0
+2022-03-06 09:54:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,90.37,1.3
+2022-03-06 09:24:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,85.63,1.0
+2022-03-06 07:00:00,kecb,Broad River at Anthony Shoals,5157,33.9921,-82.6548,112.99,88.93,0.5
+2022-03-06 08:15:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,83.49,1.0
+2022-02-25 15:30:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,75.41,0.0
+2022-02-24 11:12:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,79.66,0.7
+2022-02-24 10:39:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,79.07,0.5
+2022-02-24 12:30:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,81.96,0.5
+2022-03-03 09:20:00,West Fannin Yellow Jackets,West Fannin Stream,4915,34.9243,-84.38,565.98,67.92,0.0
+2022-03-19 16:42:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,69.7,0.0
+2022-03-24 09:00:00,oconeewaters,Calls Creek,4095,33.8683,-83.42,198.05,78.49,0.0
+2022-03-24 10:00:00,oconeewaters,Calls Creek @ 441,5469,33.8607,-83.4247,211.42,79.33,0.0
+2022-03-24 10:45:00,oconeewaters,calls creek at Hickory Rd. Bridge,4099,33.8811,-83.3889,202.32,81.71,1.5
+2022-03-25 13:45:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,78.71,0.0
+2022-03-29 11:15:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,78.72,0.0
+2022-03-29 11:00:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,80.6,0.0
+2022-03-29 10:15:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,77.43,0.5
+2022-03-28 11:00:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,81.11,0.0
+2022-03-28 10:16:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,81.66,0.0
+2022-04-01 09:00:00,West Fannin Yellow Jackets,West Fannin Stream,4915,34.9243,-84.38,565.98,63.72,0.0
+2022-03-23 13:20:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,78.06,0.8
+2022-04-17 12:15:00,Ogeechee Riverkeeper,Little Ogeechee River HWY 17,7362,32.0083,-81.2385,1.92,45.58,0.0
+2022-04-25 11:41:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,82.09,0.0
+2022-04-27 10:15:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,70.97,0.13
+2022-04-28 11:03:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,81.83,0.0
+2022-04-28 11:45:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,77.84,0.0
+2022-04-29 11:11:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,76.85,0.5
+2022-04-29 11:18:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,78.84,0.5
+2022-04-29 10:35:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,78.32,1.0
+2022-05-01 10:00:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,87.86,2.0
+2022-05-01 09:15:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,87.81,1.0
+2022-05-01 08:15:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,87.45,1.0
+2022-05-01 10:40:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,91.88,1.0
+2022-04-24 10:00:00,oconeewaters,Calls Creek,4095,33.8683,-83.42,198.05,77.93,0.0
+2022-04-24 11:30:00,oconeewaters,calls creek at Hickory Rd. Bridge,4099,33.8811,-83.3889,202.32,86.09,1.0
+2022-05-06 11:07:00,West Fannin Yellow Jackets,West Fannin Stream,4915,34.9243,-84.38,565.98,72.11,0.0
+2022-03-27 07:15:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,84.78,0.25
+2022-04-24 06:45:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,83.63,0.5
+2022-05-14 11:00:00,Ogeechee Riverkeeper,Little Ogeechee River HWY 17,7362,32.0083,-81.2385,1.92,51.61,0.0
+2022-05-19 22:15:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,77.23,0.11
+2022-05-22 06:30:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,84.75,0.25
+2022-05-12 14:30:00,Altamaha Riverkeeper,Ohoopee River at Jarriels Landing (127),7389,32.2194,-82.2065,32.0,80.2,0.2
+2022-05-12 17:30:00,Altamaha Riverkeeper,Ohoopee River at Toler Rd (464),7392,32.1036,-82.1865,26.69,93.79,0.8
+2022-05-19 13:30:00,Altamaha Riverkeeper,Altamaha River at Deens Landing,7393,31.941,-82.3741,23.83,86.04,0.6
+2022-05-19 16:45:00,Altamaha Riverkeeper,Altamaha River at Easons Bluff Landing,7394,31.8999,-82.1923,17.0,84.74,0.8
+2022-05-27 10:01:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,73.98,0.0
+2022-05-28 10:35:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,72.38,1.0
+2022-05-28 11:30:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,79.79,1.0
+2022-05-27 11:05:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,72.68,1.5
+2022-05-27 12:31:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,67.55,0.0
+2022-05-29 19:41:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,67.63,0.0
+2022-05-31 17:50:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,77.32,0.0
+2022-05-26 09:35:00,Altamaha Riverkeeper,"Ocmulgee River, Lumber City at 341",7403,31.9202,-82.6748,28.61,78.89,0.6
+2022-05-26 13:10:00,Altamaha Riverkeeper,Altamaha at 3Rivers Outdoors,7405,31.9718,-82.479,25.0,83.45,0.6
+2022-06-05 09:30:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,87.69,2.0
+2022-06-05 11:00:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,86.07,0.5
+2022-06-05 10:30:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,83.65,3.0
+2022-06-04 21:15:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,74.08,0.5
+2022-06-04 20:15:00,kecb,Broad River at Anthony Shoals,5157,33.9921,-82.6548,112.99,73.62,0.5
+2022-05-27 14:30:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,63.56,0.0
+2022-06-14 21:15:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,79.71,0.03
+2022-06-17 16:23:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,73.4,0.0
+2022-06-18 09:05:00,oconeewaters,Calls Creek,4095,33.8683,-83.42,198.05,68.47,0.0
+2022-06-18 09:05:00,oconeewaters,calls creek at Hickory Rd. Bridge,4099,33.8811,-83.3889,202.32,76.7,2.0
+2022-06-26 06:24:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,84.79,1.0
+2022-06-22 14:30:00,Satilla Riverkeeper & Friends,"U.S. Highway 84, Waycross",3655,31.2387,-82.3231,24.0,46.85,0.0
+2022-06-30 16:41:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,77.12,1.0
+2022-06-30 14:55:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,72.37,0.0
+2022-06-20 12:15:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,78.16,1.2
+2022-06-20 12:15:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,76.71,1.0
+2022-06-20 12:19:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,77.44,1.0
+2022-07-03 08:10:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,77.35,0.0
+2022-07-03 10:00:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,82.81,0.5
+2022-07-03 09:00:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,75.28,0.5
+2022-07-03 10:45:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,78.83,1.5
+2022-06-24 13:30:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,69.26,0.0
+2022-06-27 10:30:00,Altamaha Riverkeeper,Altamaha River at Rayonier,7419,31.6533,-81.8123,7.0,74.96,0.2
+2022-07-06 09:50:00,Satilla Riverkeeper & Friends,"South Prong Big Creek, Mt Calvary Road, Brantley County",4731,31.1484,-82.1556,31.84,27.54,0.0
+2022-07-06 10:35:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,24.69,4.4
+2022-07-06 11:25:00,Satilla Riverkeeper & Friends,"Big Creek, Highway 82, Brantley County",4727,31.1737,-82.1866,27.43,46.29,0.0
+2022-02-21 11:13:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,79.43,0.0
+2022-03-27 17:25:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,82.8,0.0
+2022-05-14 15:40:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,76.16,0.0
+2022-06-28 18:45:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,75.2,0.0
+2022-06-28 14:00:00,Satilla Riverkeeper & Friends,"Big Creek, Highway 82, Brantley County",4727,31.1737,-82.1866,27.43,27.58,0.0
+2022-06-28 20:00:00,Satilla Riverkeeper & Friends,"South Prong Big Creek, Mt Calvary Road, Brantley County",4731,31.1484,-82.1556,31.84,11.09,0.0
+2022-06-28 16:50:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,66.66,0.0
+2022-07-13 10:58:00,Satilla Riverkeeper & Friends,"Big Creek, Highway 82, Brantley County",4727,31.1737,-82.1866,27.43,36.73,0.0
+2022-07-13 11:52:00,Satilla Riverkeeper & Friends,"South Prong Big Creek, Mt Calvary Road, Brantley County",4731,31.1484,-82.1556,31.84,35.97,0.0
+2022-07-13 12:32:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,2.54,0.0
+2022-07-20 11:42:00,Satilla Riverkeeper & Friends,"Big Creek, Highway 82, Brantley County",4727,31.1737,-82.1866,27.43,38.95,0.0
+2022-07-23 23:35:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,46.84,0.0
+2022-07-24 06:30:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,79.81,0.5
+2022-07-20 08:59:00,Satilla Riverkeeper & Friends,"South Prong Big Creek, Mt Calvary Road, Brantley County",4731,31.1484,-82.1556,31.84,37.35,0.0
+2022-07-25 19:35:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,71.57,0.0
+2022-07-28 07:45:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,21.72,0.0
+2022-07-28 08:25:00,Satilla Riverkeeper & Friends,"South Prong Big Creek, Mt Calvary Road, Brantley County",4731,31.1484,-82.1556,31.84,30.76,0.0
+2022-07-29 11:30:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,77.27,0.0
+2022-07-29 11:00:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,75.51,0.5
+2022-07-29 13:00:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,78.33,1.0
+2022-07-30 10:30:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,75.12,1.0
+2022-07-30 11:30:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,79.06,0.5
+2022-08-02 14:40:00,Ogeechee Riverkeeper,Little Ogeechee River HWY 17,7362,32.0083,-81.2385,1.92,88.0,0.0
+2022-08-02 16:00:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,45.4,0.0
+2022-08-07 10:43:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,80.77,1.0
+2022-08-07 09:15:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,86.5,0.5
+2022-08-07 09:15:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,80.83,2.0
+2022-08-07 07:15:00,kecb,Broad River at Anthony Shoals,5157,33.9921,-82.6548,112.99,67.71,0.0
+2022-10-02 07:04:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,86.43,0.0
+2022-08-21 07:00:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,78.91,0.5
+2022-08-22 10:15:00,Piedmont University,Camp Creek,1858,34.5674,-83.5397,397.217072,72.78,2.0
+2022-08-25 22:15:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,69.78,0.03
+2022-08-23 11:30:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,69.23,1.25
+2022-08-23 11:00:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,74.01,1.25
+2022-08-23 10:25:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,69.25,0.75
+2022-08-24 10:25:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,79.46,0.0
+2022-08-27 13:15:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,37.55,0.0
+2022-08-27 14:00:00,Ogeechee Riverkeeper,Little Ogeechee River HWY 17,7362,32.0083,-81.2385,1.92,39.49,0.0
+2022-07-30 15:25:00,Bent Tree StreamKeepers,Lake Tamarack Outlet,7470,34.4918,-84.3731,456.01,86.53,25.0
+2022-08-23 15:45:00,Bent Tree StreamKeepers,Lake Tamarack Outlet,7470,34.4918,-84.3731,456.01,85.88,25.0
+2022-08-31 11:45:00,Upper Etowah Alliance AAS,Lake Allatoona - JD's by the Lake,7209,34.1638,-84.581,255.0,119.27,0.0
+2022-08-31 11:23:00,Upper Etowah Alliance AAS,Downing Creek at Barnett Park,7276,34.1987,-84.5315,283.62,85.88,0.2
+2022-08-31 12:35:00,Upper Etowah Alliance AAS,tributary to Canton Creek,2473,34.2321,-84.4906,263.493622,96.54,0.0
+2022-08-31 12:47:00,Upper Etowah Alliance AAS,unnamed tributary to Etowah River,2937,34.2412,-84.4902,264.92,84.12,0.0
+2022-09-05 12:45:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,38.12,0.0
+2022-08-31 17:50:00,Chattahoochee Stream Stewards,Coyote Creek (Hewlett Creek),5402,33.9865,-84.3234,263.39,70.28,0.0
+2022-08-31 18:50:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,71.33,0.0
+2022-09-07 08:35:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,3.66,0.0
+2022-09-10 13:00:00,Ogeechee Riverkeeper,Little Ogeechee River HWY 17,7362,32.0083,-81.2385,1.92,31.49,0.0
+2022-09-18 13:14:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,67.75,0.0
+2022-09-18 07:05:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,83.67,0.5
+2022-08-26 14:00:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,66.07,0.0
+2022-09-16 09:55:00,Reinhardt University Allied Health Club,Moore's Mill Creek,4923,34.3207,-84.5413,323.15,77.94,0.0
+2022-09-15 13:00:00,Reinhardt University Allied Health Club,Moore's Mill Creek,4923,34.3207,-84.5413,323.15,87.72,0.0
+2022-09-15 13:00:00,Reinhardt University Allied Health Club,Moore's Mill Creek,1967,34.3201,-84.5471,320.18,84.4,0.0
+2022-09-14 01:05:00,Reinhardt University Allied Health Club,Moore's Mill Creek,1967,34.3201,-84.5471,320.18,79.7,0.0
+2022-09-25 18:15:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,75.47,0.0
+2022-09-27 19:00:00,Chattahoochee Stream Stewards,Coyote Creek (Hewlett Creek),5402,33.9865,-84.3234,263.39,84.41,0.0
+2022-10-01 16:15:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,50.39,0.0
+2022-09-11 10:50:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,82.07,1.0
+2022-10-02 11:00:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,90.21,0.5
+2022-09-29 11:00:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,74.99,0.0
+2022-09-29 11:45:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,74.41,0.5
+2022-09-30 11:45:00,Bent Tree StreamKeepers,Lake Tamarack Outlet,7470,34.4918,-84.3731,456.01,86.0,2.0
+2022-09-29 13:25:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,70.07,2.2
+2022-09-30 09:45:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,79.76,0.5
+2022-09-30 09:55:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,74.85,0.75
+2022-09-11 21:05:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,84.35,1.5
+2022-10-02 09:00:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,87.64,2.0
+2022-09-11 09:05:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,91.75,0.5
+2022-09-30 13:20:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,67.36,0.0
+2022-10-16 13:58:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,65.22,0.0
+2022-09-21 13:00:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,74.25,0.2
+2022-10-22 10:45:00,Ogeechee Riverkeeper,Kings Ferry Landing Boat Ramp,7361,31.978,-81.2875,2.02,55.83,0.0
+2022-10-23 07:30:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,84.7,0.75
+2022-10-23 10:15:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,51.76,0.0
+2022-10-30 12:20:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,68.95,0.0
+2022-10-26 10:20:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,74.02,0.5
+2022-10-27 15:20:00,Bent Tree StreamKeepers,Lake Tamarack Outlet,7470,34.4918,-84.3731,456.01,72.49,0.5
+2022-10-27 15:50:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,66.24,0.5
+2022-10-27 16:50:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,68.21,0.5
+2022-10-27 17:50:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,75.12,0.5
+2022-11-07 09:38:00,West Fannin Yellow Jackets,West Fannin Stream,4915,34.9243,-84.38,565.98,61.45,0.0
+2022-10-07 21:23:00,West Fannin Yellow Jackets,West Fannin Stream,4915,34.9243,-84.38,565.98,68.96,0.0
+2022-11-08 10:23:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,76.13,1.5
+2022-11-08 10:23:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,76.63,0.0
+2022-11-08 09:23:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,81.08,0.5
+2022-11-08 08:15:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,82.34,0.0
+2022-11-14 13:02:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,23.03,0.0
+2022-11-14 13:47:00,Satilla Riverkeeper & Friends,Palmetto Creek,4214,31.153,-82.1418,35.69,51.61,0.0
+2022-11-20 07:00:00,GSW Sciences,Muckalee Creek at McLittle Bridge Rd,7175,32.0067,-84.2266,95.07,88.74,1.0
+2022-09-16 16:36:00,Thomasville Seed Ochlockonee,Oquina Creek- Cassidy Road,7484,30.8716,-83.9917,64.11,69.07,0.0
+2022-09-16 12:40:00,Thomasville Seed Ochlockonee,Oquina Creek- Bruce Branch,7485,30.8747,-83.9827,63.61,80.17,0.0
+2022-09-16 17:05:00,Thomasville Seed Ochlockonee,Oquina Creek-Old Albany Road,7488,30.8557,-83.9958,63.1,79.43,0.5
+2022-09-16 15:08:00,Thomasville Seed Ochlockonee,Olive Creek US HWY 19 after Heritage,7490,30.8049,-83.9371,54.64,71.53,0.5
+2022-09-16 11:35:00,Thomasville Seed Ochlockonee,Olive Creek- Metcalf after RXR,7491,30.834,-83.9593,74.57,51.9,0.0
+2022-09-16 10:40:00,Thomasville Seed Ochlockonee,Olive Creek- Old Monticello Rd w of Robinhood,7492,30.8206,-83.9592,66.44,72.13,0.0
+2022-09-16 12:07:00,Thomasville Seed Ochlockonee,Olive Creek- Remington Ave,7489,30.8353,-83.9604,76.62,62.96,0.5
+2022-09-16 15:58:00,Thomasville Seed Ochlockonee,Wards Creek- Habersham Road,7493,30.8023,-83.9954,71.49,55.79,0.0
+2022-10-29 23:20:00,Thomasville Seed Ochlockonee,Wards Creek- Habersham Road,7493,30.8023,-83.9954,71.49,48.88,0.0
+2022-11-08 10:27:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,76.19,1.5
+2022-11-19 08:30:00,oconeewaters,Barber Creek @ Clotfelder Rd. Bridge,4114,33.9025,-83.5229,219.35,72.96,2.0
+2022-11-19 09:05:00,oconeewaters,Barber Creek @ Daniel Bridge Rd. Bridge,4160,33.8993,-83.4428,196.17,83.26,0.7
+2022-11-19 09:05:00,oconeewaters,Calls Creek,4095,33.8683,-83.42,198.05,81.79,0.7
+2022-11-19 09:40:00,oconeewaters,calls creek at Hickory Rd. Bridge,4099,33.8811,-83.3889,202.32,82.15,1.8
+2022-10-29 14:00:00,Thomasville Seed Ochlockonee,Oquina Creek-Old Albany Road,7488,30.8557,-83.9958,63.1,42.22,0.0
+2022-10-29 13:00:00,Thomasville Seed Ochlockonee,Olive Creek US HWY 19 after Heritage,7490,30.8049,-83.9371,54.64,72.41,0.0
+2022-10-29 12:05:00,Thomasville Seed Ochlockonee,Olive Creek- Metcalf after RXR,7491,30.834,-83.9593,74.57,60.42,0.0
+2022-10-29 12:30:00,Thomasville Seed Ochlockonee,Olive Creek- Remington Ave,7489,30.8353,-83.9604,76.62,50.44,0.0
+2022-10-29 14:25:00,Thomasville Seed Ochlockonee,Oquina Creek- Cassidy Road,7484,30.8716,-83.9917,64.11,52.77,0.0
+2022-10-29 23:25:00,Thomasville Seed Ochlockonee,Olive Creek- Old Monticello Rd w of Robinhood,7492,30.8206,-83.9592,66.44,63.31,0.0
+2022-11-23 14:36:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,64.47,0.0
+2022-08-29 18:35:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,69.18,0.0
+2022-09-27 18:36:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,74.88,0.0
+2022-10-24 17:51:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,71.27,0.0
+2022-11-30 12:10:00,Bent Tree StreamKeepers,lower Sallie Doss Stream,7249,34.4947,-84.3629,463.7,70.43,0.0
+2022-11-30 10:40:00,Bent Tree StreamKeepers,Coffey Cove Creek,5486,34.4962,-84.3604,461.97,77.99,0.5
+2022-11-30 10:15:00,Bent Tree StreamKeepers,Long Swamp Creek at Beaver Run Trail,5483,34.5009,-84.3619,468.73,74.24,0.0
+2022-11-29 10:15:00,Bent Tree StreamKeepers,Mulligans Creek,5485,34.4887,-84.366,460.34,76.76,0.5
+2022-11-29 10:48:00,Bent Tree StreamKeepers,Long Swamp Creek at Memorial Garden Trail,5484,34.4911,-84.3759,444.9,69.88,0.5
+2022-11-30 12:48:00,Bent Tree StreamKeepers,Lake Tamarack Outlet,7470,34.4918,-84.3731,456.01,67.96,0.5
+2022-11-27 12:01:00,Toonigh Neighbors,Toonigh Creek,154,34.1504,-84.5196,274.650085,7.28,0.01
+2022-11-20 15:26:00,The Lugthart clan,Mill Creek,2464,34.7354,-85.0413,243.718079,75.9,0.0
+2022-12-04 21:08:00,Riffle Beetles,Broad River at Peyton Ferry,5275,34.1267,-83.0489,154.09,89.23,0.5
+2022-12-04 21:08:00,Riffle Beetles,Scull Shoals at David Homes Church Road,5350,34.1566,-83.1001,164.57,73.08,0.5
+2022-12-04 08:18:00,Riffle Beetles,Broad River-Briar's Landing,6680,34.074,-83.0043,128.63,90.43,0.5
+2022-12-04 21:58:00,Riffle Beetles,Mill Shoal Creek at King Hall Mill Rd,5298,34.1589,-83.0657,158.44,87.06,2.0
+2022-11-25 14:30:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,67.51,0.0
+2022-11-25 14:30:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,67.51,0.0
+2022-10-28 14:45:00,GSW Sciences,Muckalee Creek at Three Bridges Road,5404,31.9394,-84.2084,87.54,68.0,0.0
+2022-12-15 12:48:00,Chattahoochee Stream Stewards,Gold Branch Creek,6758,33.9842,-84.3841,263.77,71.61,0.0
